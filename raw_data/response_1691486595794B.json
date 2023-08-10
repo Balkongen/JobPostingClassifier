@@ -1,0 +1,1297 @@
+{
+  "total": {
+    "value": 1071063
+  },
+  "positions": 2015690,
+  "query_time_in_millis": 151,
+  "result_time_in_millis": 161,
+  "stats": [],
+  "freetext_concepts": {},
+  "hits": [
+    {
+      "relevance": 1,
+      "id": "a57dcdf04b79d555bdffef2048caee08d39de340",
+      "external_id": "46-556811-4770-5939",
+      "original_id": "27051911",
+      "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/a57dcdf04b79d555bdffef2048caee08d39de340",
+      "logo_url": "https://www.arbetsformedlingen.se/rest/arbetsgivare/rest/af/v3/organisation/5568114770/logotyper/logo.png",
+      "headline": "Restaurang/cafémedarbetare deltid kvällar & helger",
+      "application_deadline": "2023-02-08T23:59:59",
+      "number_of_vacancies": 1,
+      "description": {
+        "text": "Vi är något av ett mellanting mellan ett café och en restaurang. Vi serverar mycket varm mat som till stor del är hemlagad och har också en ordentlig kaffemeny och hembakade kakor. Vi serverar detta nästan dygnet runt. För de som arbetar hos oss innebär det att man får lära sig väldigt många olika saker då alla lärs upp i samtliga delar av driften och man måste i stunder skifta station eller avbryta sysslor för att vara där man behövs mest. Samarbetsförmåga är därför en viktig egenskap för att fungera hos oss. Arbetsuppgifterna kan också skifta något beroende på vilken tid och veckodag man arbetar och uppgifterna är överlag väldigt varierade. Anpassningsförmåga är därför också en viktig egenskap för att trivas och fungera hos oss. Eftersom det är mycket att lära sig lägger vi mycket tid och engagemang på fortlöpande utbildning för den som jobbar hos oss tillräckligt länge. Har man jobbat hos oss ett par år kan man det mesta så att säga. Öppettiderna innebär också att arbetstiderna kan vara udda och det är därför nödvändigt att du som söker denna tjänst har goda kommunikationsmöjligheter, gärna körkort och tillgång till bil alternativt bor på cykelavstånd. De som trivs hos oss är personer som uppskattar att det alltid finns något att göra, för det har vi sett till att det alltid finns! Detta är inte ett optimalt arbete för den som föredrar mindre aktivitet. Vi erbjuder mycket lärdomar, härlig sammanhållning och bra ersättning. Vi önskar en arbetsam person med god fysik och energi. Välkommen att söka!",
+        "text_formatted": null,
+        "company_information": null,
+        "needs": null,
+        "requirements": null,
+        "conditions": "Deltid\r\nTillsvidare"
+      },
+      "employment_type": {
+        "concept_id": "PFZr_Syz_cUq",
+        "label": "Vanlig anställning",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_type": {
+        "concept_id": "oG8G_9cW_nRf",
+        "label": "Fast månads- vecko- eller timlön",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_description": "Fast månads- vecko- eller timlön",
+      "duration": {
+        "concept_id": "a7uU_j21_mkL",
+        "label": "Tills vidare",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "working_hours_type": {
+        "concept_id": "947z_JGS_Uk2",
+        "label": "Deltid",
+        "legacy_ams_taxonomy_id": "2"
+      },
+      "scope_of_work": {
+        "min": 0,
+        "max": 100
+      },
+      "access": null,
+      "employer": {
+        "phone_number": null,
+        "email": null,
+        "url": null,
+        "organization_number": "5568114770",
+        "name": "Ct24 Sverige AB",
+        "workplace": "CT24 Sverige AB (Café TinTin)"
+      },
+      "application_details": {
+        "information": null,
+        "reference": null,
+        "email": null,
+        "via_af": false,
+        "url": null,
+        "other": null
+      },
+      "experience_required": false,
+      "access_to_own_car": false,
+      "driving_license_required": false,
+      "driving_license": null,
+      "occupation": {
+        "concept_id": "yXRQ_Ad9_E8V",
+        "label": "Restaurangbiträde",
+        "legacy_ams_taxonomy_id": "5555"
+      },
+      "occupation_group": {
+        "concept_id": "tPox_ie4_X9X",
+        "label": "Restaurang- och köksbiträden m.fl.",
+        "legacy_ams_taxonomy_id": "9412"
+      },
+      "occupation_field": {
+        "concept_id": "ScKy_FHB_7wT",
+        "label": "Hotell, restaurang, storhushåll",
+        "legacy_ams_taxonomy_id": "7"
+      },
+      "workplace_address": {
+        "municipality": "Göteborg",
+        "municipality_code": "1480",
+        "municipality_concept_id": "PVZL_BQT_XtL",
+        "region": "Västra Götalands län",
+        "region_code": "14",
+        "region_concept_id": "zdoY_6u5_Krt",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": null,
+        "postcode": null,
+        "city": null,
+        "coordinates": [
+          11.97456,
+          57.70887
+        ]
+      },
+      "must_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [],
+        "education": [],
+        "education_level": []
+      },
+      "nice_to_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [],
+        "education": [],
+        "education_level": []
+      },
+      "application_contacts": [],
+      "publication_date": "2023-01-22T23:28:46",
+      "last_publication_date": "2023-02-08T23:59:59",
+      "removed": false,
+      "removed_date": null,
+      "source_type": "VIA_PLATSBANKEN_DXA",
+      "timestamp": 1675679051544
+    },
+    {
+      "relevance": 1,
+      "id": "73235257f3eb9effe302668a0bcb51938c97a72b",
+      "external_id": "46-202100-0076-A6773AAC448D4517BFE8E7BB6B0AD04B",
+      "original_id": "27051910",
+      "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/73235257f3eb9effe302668a0bcb51938c97a72b",
+      "logo_url": "https://www.arbetsformedlingen.se/rest/arbetsgivare/rest/af/v3/organisation/2021000076/logotyper/logo.png",
+      "headline": "Administratörer till Polisområde Stockholm Nord ",
+      "application_deadline": "2023-01-23T23:59:59",
+      "number_of_vacancies": 2,
+      "description": {
+        "text": "Är du redo för en större uppgift? Polismyndigheten är Sveriges största myndighet med ca 34 000 medarbetare och är organiserad i sju polisregioner, ett antal nationella avdelningar samt ett kansli. Myndigheten befinner sig i en omfattande tillväxt som kommer att pågå de närmsta åren. Detta för att kunna möta framtidens utmaningar. Att arbeta för polisen är att skapa trygghet i människors liv. Varje dag. Polismyndigheten, region Stockholm har ca 7 000 anställda. Regionen består av fyra polisområden; City, Syd, Nord och Gotland, regionala enheter samt ett regionkansli som lyder direkt under regionpolischefen. Polisområde Stockholm Nord är ett av Sveriges största polisområden med över 1700 medarbetare. Polisområdet omfattar både landsbygd, glesbygd och skärgård med stora säsongsvariationer i de södra delarna och ökad urbanisering, migration och segregation i de norra delarna. Den komplexa bilden ställer höga krav på polisiär förmåga och ambitionen är att området ska växa till 2300 medarbetare år 2024. Polisområdet är indelat i sju lokalpolisområden; Järfälla, Järva, Norrtälje, Sollentuna, Solna, Södra Roslagen och Vällingby. Utöver det finns fem utredningssektioner samt en kanslisektion. Vi söker nu medarbetare med till lokalpolisområde Sollentuna. ARBETSUPPGIFTER\nArbetsuppgifterna som administratör är varierande och du kommer i första hand att vara ett praktiskt stöd till verksamheten och de olika gruppcheferna. Du ska kunna hoppa in där du behövs och hantera både mer och mindre kvalificerade arbetsuppgifter. I arbetsuppgifterna ingår bland annat: protokollskrivning, inventeringar, personalplanering, semesterplanering, beslutsskrivning, administration vid rekrytering, inköp, utbildningssamordning, administration i remissärenden, informationsutskick, konferenssamordning, hantering av inkommande handlingar och ärenden på telefon,\nmail och post. Viss fakturahantering och transkribering av förhörsutskrifter förekommer. KVALIFIKATIONER\nDetta är en möjlighet för dig som har:\n•\tSlutförd och godkänd gymnasieexamen \n•\tMinst ett års aktuell erfarenhet av att ha arbetat som administratör eller med administrativa arbetsuppgifter som arbetsgivaren bedömer relevanta\n•\tGod kunskap och vana att arbeta i Officepaketet\n•\tMycket god förmåga att uttrycka dig i tal och skrift på svenska\n•\tGod förmåga att uttrycka dig i tal och skrift på engelska\n\nVi ser det som meriterande om du utöver ovan även har:\n•\tMinst ett års aktuell erfarenhet av serviceinriktat arbete \n•\tErfarenhet av liknande arbetsuppgifter från offentlig sektor i närtid\n•\tB-körkort\n\nPersonliga egenskaper\nVi söker dig som trivs med flera olika kontaktytor, har god förmåga till samarbete med andra och samtidigt kan vara självgående i dina arbetsuppgifter. Du är flexibel och kan snabbt skifta mellan olika arbetsuppgifter. Du strukturerad och se vikten av att arbetsuppgifterna görs ordentligt och enligt rätt rutiner även när arbetstempot ökar. Du förväntas ta dig an nya arbetsuppgifter på ett positivt och kreativt sätt och får gärna ta egna initiativ. Då du kommer ha en stöttande funktion ställer vi höga krav på kommunikations- och serviceförmåga. Vi kommer att lägga stor vikt vid personliga egenskaper. Har du skyddade personuppgifter, referenser eller liknande information som du själv bedömer som skyddsvärd rekommenderar vi dig att du skickar din ansökan uppmärkt med annonsens referensnummer via brev till adressen: Polismyndigheten, Registratorskontoret, 106 75  STOCKHOLM, eller kontakta ansvarig HR-konsult. Om du vill komplettera din ansökan vänder du dig till ansvarig HR-konsult. En anställning hos Polismyndigheten kan komma att inledas med en provanställning om sex månader. Polismyndigheten är Sveriges största myndighet. Vi erbjuder dig en arbetsplats som stimulerar till mångfald, kreativitet och personlig utveckling. Läs gärna om våra förmåner som anställd hos polisen på https://polisen.se/erbjudande\n\nHos oss får du möjlighet att bidra till Polisens uppdrag att öka tryggheten och minska brottsligheten i samhället. Vi bedriver vår verksamhet enligt vår värdegrund: engagemang, effektivitet och tillgänglighet. Som medarbetare inom polisen agerar du för likabehandling. Det är en förutsättning för rättssäkerhet, rättstrygghet och för polisens legitimitet i samhället. Som företrädare för polisen respekterar du allas lika värde och skapar förtroende för polisen. Läs gärna mer om polisen och vår verksamhet på www.polisen.se\n\nVarmt välkommen med din ansökan!",
+        "text_formatted": null,
+        "company_information": null,
+        "needs": null,
+        "requirements": null,
+        "conditions": "Heltid.  Veckoplanering 40h/v\r\nTillsvidareanställning, tillträde: Enligt överenskommelse."
+      },
+      "employment_type": {
+        "concept_id": "PFZr_Syz_cUq",
+        "label": "Vanlig anställning",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_type": {
+        "concept_id": "oG8G_9cW_nRf",
+        "label": "Fast månads- vecko- eller timlön",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_description": "Enligt avtal.",
+      "duration": {
+        "concept_id": "a7uU_j21_mkL",
+        "label": "Tills vidare",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "working_hours_type": {
+        "concept_id": "6YE1_gAC_R2G",
+        "label": "Heltid",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "scope_of_work": {
+        "min": 100,
+        "max": 100
+      },
+      "access": null,
+      "employer": {
+        "phone_number": null,
+        "email": null,
+        "url": null,
+        "organization_number": "2021000076",
+        "name": "Polismyndigheten",
+        "workplace": "Polismyndigheten, Polisregion Stockholm"
+      },
+      "application_details": {
+        "information": null,
+        "reference": null,
+        "email": null,
+        "via_af": false,
+        "url": null,
+        "other": null
+      },
+      "experience_required": true,
+      "access_to_own_car": false,
+      "driving_license_required": false,
+      "driving_license": null,
+      "occupation": {
+        "concept_id": "YG1s_tUg_jWJ",
+        "label": "Handläggare/Utredare, offentlig förvaltning",
+        "legacy_ams_taxonomy_id": "5776"
+      },
+      "occupation_group": {
+        "concept_id": "vPP6_rsw_dck",
+        "label": "Planerare och utredare m.fl.",
+        "legacy_ams_taxonomy_id": "2422"
+      },
+      "occupation_field": {
+        "concept_id": "X82t_awd_Qyc",
+        "label": "Administration, ekonomi, juridik",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "workplace_address": {
+        "municipality": "Stockholm",
+        "municipality_code": "0180",
+        "municipality_concept_id": "AvNB_uwa_6n6",
+        "region": "Stockholms län",
+        "region_code": "01",
+        "region_concept_id": "CifL_Rzy_Mku",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": null,
+        "postcode": null,
+        "city": null,
+        "coordinates": [
+          18.06858,
+          59.329323
+        ]
+      },
+      "must_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [
+          {
+            "weight": 10,
+            "concept_id": "YG1s_tUg_jWJ",
+            "label": "Handläggare, offentlig förvaltning/Utredare, offentlig förvaltning",
+            "legacy_ams_taxonomy_id": "5776"
+          }
+        ],
+        "education": [],
+        "education_level": []
+      },
+      "nice_to_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [],
+        "education": [],
+        "education_level": []
+      },
+      "application_contacts": [],
+      "publication_date": "2023-01-22T23:25:19",
+      "last_publication_date": "2023-01-23T23:59:59",
+      "removed": false,
+      "removed_date": null,
+      "source_type": "VIA_PLATSBANKEN_DXA",
+      "timestamp": 1674426319984
+    },
+    {
+      "relevance": 1,
+      "id": "39f39ab569421400edf9ecc3d10336cd50f0a318",
+      "external_id": null,
+      "original_id": "27051909",
+      "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/39f39ab569421400edf9ecc3d10336cd50f0a318",
+      "logo_url": "https://www.arbetsformedlingen.se/rest/arbetsgivare/rest/af/v3/arbetsplatser/82353272/logotyper/logo.png",
+      "headline": "Remote: Älskar du TypeScript & React? Ansök via SSH!",
+      "application_deadline": "2023-01-31T23:59:59",
+      "number_of_vacancies": 1,
+      "description": {
+        "text": "Vill du jobba med TypeScript och React? Älskar du open source? Då vill vi gärna jobba med dig. Ansök direkt i terminalen genom att SSH:a till join.5monkeys.se! Från våra kontor i Stockholm, Göteborg och från våra distanskontor (remote!) tar vi fram storskaliga digitala tjänster åt våra kunder. Vi har utvecklat några av Sveriges allra största digitala tjänster med Python/Django-baserad backend och TypeScript/React-baserad frontend. Genom att all utveckling sker tillsammans i team kan vi upprätthålla en mycket hög gemensam kunskaps- och kvalitetsnivå där vi lär oss av varandra. Vi gillar modern testdriven utveckling med byggstenar såsom Docker, CI-verktyg och hög coverage. Vi bidrar aktivt till flera open source-projekt. Du hittar några av våra projekt på GitHub: https://github.com/5monkeys\nDu ansöker direkt i terminalen genom att SSH:a till join.5monkeys.se. Välkommen!",
+        "text_formatted": null,
+        "company_information": null,
+        "needs": null,
+        "requirements": null,
+        "conditions": null
+      },
+      "employment_type": {
+        "concept_id": "PFZr_Syz_cUq",
+        "label": "Vanlig anställning",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_type": {
+        "concept_id": "oG8G_9cW_nRf",
+        "label": "Fast månads- vecko- eller timlön",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_description": null,
+      "duration": {
+        "concept_id": "a7uU_j21_mkL",
+        "label": "Tills vidare",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "working_hours_type": {
+        "concept_id": "6YE1_gAC_R2G",
+        "label": "Heltid",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "scope_of_work": {
+        "min": 100,
+        "max": 100
+      },
+      "access": null,
+      "employer": {
+        "phone_number": null,
+        "email": null,
+        "url": "https://www.5monkeys.se/",
+        "organization_number": "5567124143",
+        "name": "5 Monkeys Agency AB",
+        "workplace": "5 Monkeys Agency AB"
+      },
+      "application_details": {
+        "information": null,
+        "reference": null,
+        "email": null,
+        "via_af": false,
+        "url": null,
+        "other": null
+      },
+      "experience_required": true,
+      "access_to_own_car": false,
+      "driving_license_required": false,
+      "driving_license": null,
+      "occupation": {
+        "concept_id": "GDHs_eoz_uKx",
+        "label": "Frontend-utvecklare",
+        "legacy_ams_taxonomy_id": "7633"
+      },
+      "occupation_group": {
+        "concept_id": "DJh5_yyF_hEM",
+        "label": "Mjukvaru- och systemutvecklare m.fl.",
+        "legacy_ams_taxonomy_id": "2512"
+      },
+      "occupation_field": {
+        "concept_id": "apaJ_2ja_LuF",
+        "label": "Data/IT",
+        "legacy_ams_taxonomy_id": "3"
+      },
+      "workplace_address": {
+        "municipality": "Robertsfors",
+        "municipality_code": "2409",
+        "municipality_concept_id": "p8Mv_377_bxp",
+        "region": "Västerbottens län",
+        "region_code": "24",
+        "region_concept_id": "g5Tt_CAV_zBd",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": null,
+        "postcode": "91501",
+        "city": "ROBERTSFORS",
+        "coordinates": [
+          20.846875611018685,
+          64.19409412945225
+        ]
+      },
+      "must_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [],
+        "education": [],
+        "education_level": []
+      },
+      "nice_to_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [],
+        "education": [],
+        "education_level": []
+      },
+      "application_contacts": [],
+      "publication_date": "2023-01-22T23:12:14",
+      "last_publication_date": "2023-01-31T23:59:59",
+      "removed": false,
+      "removed_date": null,
+      "source_type": "VIA_ANNONSERA",
+      "timestamp": 1674425534798
+    },
+    {
+      "relevance": 1,
+      "id": "11bb81e5b5c90353c9b93de290fdc5171d154d8a",
+      "external_id": null,
+      "original_id": "27051908",
+      "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/11bb81e5b5c90353c9b93de290fdc5171d154d8a",
+      "logo_url": "https://www.arbetsformedlingen.se/rest/arbetsgivare/rest/af/v3/arbetsplatser/82353272/logotyper/logo.png",
+      "headline": "Remote: Älskar du Python/Django? Ansök via SSH!",
+      "application_deadline": "2023-01-31T23:59:59",
+      "number_of_vacancies": 1,
+      "description": {
+        "text": "Vill du jobba med Python och Django? Älskar du open source? Då vill vi gärna jobba med dig. Ansök direkt i terminalen genom att SSH:a till join.5monkeys.se! Från våra kontor i Stockholm, Göteborg och från våra distanskontor (remote!) tar vi fram storskaliga digitala tjänster åt våra kunder. Vi har utvecklat några av Sveriges allra största Python/Django-baserade digitala tjänster. Genom att all utveckling sker tillsammans i team kan vi upprätthålla en mycket hög gemensam kunskaps- och kvalitetsnivå där vi lär oss av varandra. Vi gillar modern testdriven utveckling med byggstenar såsom Docker, CI-verktyg och hög coverage. Vi bidrar aktivt till flera open source-projekt. Du hittar några av våra projekt på GitHub: https://github.com/5monkeys\nDu ansöker enklast direkt i terminalen genom att SSH:a till join.5monkeys.se. Välkommen!",
+        "text_formatted": null,
+        "company_information": null,
+        "needs": null,
+        "requirements": null,
+        "conditions": null
+      },
+      "employment_type": {
+        "concept_id": "PFZr_Syz_cUq",
+        "label": "Vanlig anställning",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_type": {
+        "concept_id": "oG8G_9cW_nRf",
+        "label": "Fast månads- vecko- eller timlön",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_description": null,
+      "duration": {
+        "concept_id": "a7uU_j21_mkL",
+        "label": "Tills vidare",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "working_hours_type": {
+        "concept_id": "6YE1_gAC_R2G",
+        "label": "Heltid",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "scope_of_work": {
+        "min": 100,
+        "max": 100
+      },
+      "access": null,
+      "employer": {
+        "phone_number": null,
+        "email": null,
+        "url": "https://www.5monkeys.se/",
+        "organization_number": "5567124143",
+        "name": "5 Monkeys Agency AB",
+        "workplace": "5 Monkeys Agency AB"
+      },
+      "application_details": {
+        "information": null,
+        "reference": null,
+        "email": null,
+        "via_af": false,
+        "url": null,
+        "other": null
+      },
+      "experience_required": true,
+      "access_to_own_car": false,
+      "driving_license_required": false,
+      "driving_license": null,
+      "occupation": {
+        "concept_id": "fg7B_yov_smw",
+        "label": "Systemutvecklare/Programmerare",
+        "legacy_ams_taxonomy_id": "2419"
+      },
+      "occupation_group": {
+        "concept_id": "DJh5_yyF_hEM",
+        "label": "Mjukvaru- och systemutvecklare m.fl.",
+        "legacy_ams_taxonomy_id": "2512"
+      },
+      "occupation_field": {
+        "concept_id": "apaJ_2ja_LuF",
+        "label": "Data/IT",
+        "legacy_ams_taxonomy_id": "3"
+      },
+      "workplace_address": {
+        "municipality": "Ockelbo",
+        "municipality_code": "2101",
+        "municipality_concept_id": "GEvW_wKy_A9H",
+        "region": "Gävleborgs län",
+        "region_code": "21",
+        "region_concept_id": "zupA_8Nt_xcD",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": null,
+        "postcode": "81601",
+        "city": "OCKELBO",
+        "coordinates": [
+          16.711645996469255,
+          60.893889754334865
+        ]
+      },
+      "must_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [],
+        "education": [],
+        "education_level": []
+      },
+      "nice_to_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [],
+        "education": [],
+        "education_level": []
+      },
+      "application_contacts": [],
+      "publication_date": "2023-01-22T23:11:59",
+      "last_publication_date": "2023-01-31T23:59:59",
+      "removed": false,
+      "removed_date": null,
+      "source_type": "VIA_ANNONSERA",
+      "timestamp": 1674425519795
+    },
+    {
+      "relevance": 1,
+      "id": "3d07250f9baacf5ef15c2f9bf27ab6412cb61b06",
+      "external_id": "46-556760-8475-00106558",
+      "original_id": "27051907",
+      "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/3d07250f9baacf5ef15c2f9bf27ab6412cb61b06",
+      "logo_url": "https://www.arbetsformedlingen.se/rest/arbetsgivare/rest/af/v3/organisation/5567608475/logotyper/logo.png",
+      "headline": "Timvikarier inför sommaren till HVB Villa Svanholmen",
+      "application_deadline": "2023-03-19T23:59:59",
+      "number_of_vacancies": 5,
+      "description": {
+        "text": "Vill du erbjudas ett spännande och utvecklande jobb samtidigt som du arbetar för att dagligen ge människor ett bra liv? Vill du dessutom få möjlighet att utvecklas på ett företag som har engagemang, glädje och ansvar som ledord? Då har du möjligheten att söka jobb hos oss på Humana. I rollen kommer du tillsammans med oss att arbeta efter vår vision – Alla har rätt till ett bra liv. Om tjänsten\nVilla Svanholmen är ett HVB för flickor 13-17 år, beläget ett par kilometer utanför Osby. Placerade flickor har begynnande eller aktiv missbruksproblematik i kombination med exempelvis psykisk ohälsa, normbrytande beteende, relationsproblematik, NPF samt erfarenheter av trauma, utsatthet, omsorgssvikt etc. På Villa Svanholmen arbetar engagerade behandlare, många med lång erfarenhet av arbete med aktuell målgrupp, på ett rullande schema som innebär arbete under dygnets alla timmar. Dygnspass med sovande jour och heldagspass är vanligt förekommande, vi söker även timvikarier för vaken natt-tjänstgöring. Som timvikarie på Villa Svanholmen är dina primära arbetsuppgifter att vara en del av det löpande arbetet i verksamheten som innehåller motivationsarbete, att umgås med placerade flickor och genomföra/delta i aktiviteter, praktiskt arbete med matlagning, städ, tvätt etc. I alla delar av arbetet är du en positiv, trygg och vuxen förebild för flickorna. Du arbetar tillsammans med erfarna kollegor som leder och fördelar arbetet och du har lätt för att följa instruktioner. En viktig arbetsuppgift är dokumentation, både i social journal samt avvikelserappportering. Anställning inleds med introduktion under ca 3 tillfällen där du tillsammans med mentor deltar i det vardagliga arbetet samt får genomgång av de system vi arbetar i. Du får även tillgång till Humanas lärportal som innehåller en mängd olika digitala utbildningar av vilka vissa är obligatoriska att genomföra för arbete på Villa Svanholmen. På Villa Svanholmen arbetar vi med lågaffektivt bemötande och med målsättningen att skapa en trygg och förutsägbar miljö där varje flicka får möjlighet att utvecklas utifrån sina individuella behov, styrkor och förmågor. Vi arbetar med behandlingsinterventioner utifrån genomförandeplan, exempelvis genom A-CRA, rePULSE samt gruppsamtal vilket utförs av specifik personal med kompetens av respektive metod. Vi söker Dig som...\nhar erfarenhet av arbete på HVB eller med aktuell målgrupp, är tillgänglig för arbete som timvikarie nu och/eller i sommar under semesterperiod. Utbildning inom socialt arbete, slutförd eller pågående är meriterande. Som person är du ansvarstagande, relationsskapande, och trygg. I rollen är det viktigt att ha förmåga att sätta gränser vid behov. Arbetet innebär ett nära och förtroendefullt samarbete med dina kollegor och du har därför god kommunikations- och samarbetsförmåga. Ange när du är tillgänglig för arbete i din ansökan. Ange även om du är intresserad av arbete på dag+ kvälls tid eller av vaken nattarbete. Vi erbjuder\nSpännande arbete tillsammans med erfarna kollegor, delaktighet i förändringsarbetet för placerade ungdomar, möjlighet till egen utveckling genom erfarenheter samt utbildningar i vår lärportal. Efter genomgången 2-års eftergymnasial utbildning finns möjlighet till mer varaktig anställning om/när vakans uppstår. Vad händer nu? Intervjuer sker löpande under ansökningstid, vi anställer flertal personer. Ansök via annonsen, vi kan inte ta emot ansökningar via mail etc. -Villa Svanholmen är en rökfri arbetsplats. -B-körkort är ett krav. -Inför anställning krävs utdrag ur belastningsregistret för arbete med barn på HVB. -Läs mer om hur det att jobba hos oss på Humana HÄR",
+        "text_formatted": null,
+        "company_information": null,
+        "needs": null,
+        "requirements": null,
+        "conditions": "Deltid 60%-80%\r\nSommarjobb"
+      },
+      "employment_type": {
+        "concept_id": "PFZr_Syz_cUq",
+        "label": "Vanlig anställning",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_type": {
+        "concept_id": "oG8G_9cW_nRf",
+        "label": "Fast månads- vecko- eller timlön",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_description": "Individuell lönesättning utifrån kompetens, erfarenhet.",
+      "duration": {
+        "concept_id": "qQUd_4qe_NDT",
+        "label": "6 månader eller längre",
+        "legacy_ams_taxonomy_id": "2"
+      },
+      "working_hours_type": {
+        "concept_id": "947z_JGS_Uk2",
+        "label": "Deltid",
+        "legacy_ams_taxonomy_id": "2"
+      },
+      "scope_of_work": {
+        "min": 60,
+        "max": 80
+      },
+      "access": null,
+      "employer": {
+        "phone_number": null,
+        "email": null,
+        "url": null,
+        "organization_number": "5567608475",
+        "name": "Humana AB",
+        "workplace": "Humana AB"
+      },
+      "application_details": {
+        "information": null,
+        "reference": null,
+        "email": null,
+        "via_af": false,
+        "url": null,
+        "other": null
+      },
+      "experience_required": true,
+      "access_to_own_car": true,
+      "driving_license_required": true,
+      "driving_license": [
+        {
+          "concept_id": "VTK8_WRx_GcM",
+          "label": "B",
+          "legacy_ams_taxonomy_id": "3"
+        }
+      ],
+      "occupation": {
+        "concept_id": "MMTE_fiP_1Ng",
+        "label": "Behandlingsassistent/Socialpedagog",
+        "legacy_ams_taxonomy_id": "5711"
+      },
+      "occupation_group": {
+        "concept_id": "BWwk_fYX_S5B",
+        "label": "Behandlingsassistenter och socialpedagoger m.fl.",
+        "legacy_ams_taxonomy_id": "3411"
+      },
+      "occupation_field": {
+        "concept_id": "GazW_2TU_kJw",
+        "label": "Yrken med social inriktning",
+        "legacy_ams_taxonomy_id": "16"
+      },
+      "workplace_address": {
+        "municipality": "Osby",
+        "municipality_code": "1273",
+        "municipality_concept_id": "najS_Lvy_mDD",
+        "region": "Skåne län",
+        "region_code": "12",
+        "region_concept_id": "CaRE_1nn_cSU",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": null,
+        "postcode": null,
+        "city": null,
+        "coordinates": [
+          13.992941,
+          56.381535
+        ]
+      },
+      "must_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [
+          {
+            "weight": 10,
+            "concept_id": "MMTE_fiP_1Ng",
+            "label": "Behandlingsassistent/Socialpedagog",
+            "legacy_ams_taxonomy_id": "5711"
+          }
+        ],
+        "education": [],
+        "education_level": []
+      },
+      "nice_to_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [],
+        "education": [],
+        "education_level": []
+      },
+      "application_contacts": [],
+      "publication_date": "2023-01-22T23:11:24",
+      "last_publication_date": "2023-03-19T23:59:59",
+      "removed": false,
+      "removed_date": null,
+      "source_type": "VIA_PLATSBANKEN_DXA",
+      "timestamp": 1674425484338
+    },
+    {
+      "relevance": 1,
+      "id": "88fc23d1b64ac6a1d70e67e6e017337efa4a455e",
+      "external_id": "46-556757-0188-2305915-5",
+      "original_id": "27051906",
+      "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/88fc23d1b64ac6a1d70e67e6e017337efa4a455e",
+      "logo_url": null,
+      "headline": "Area Sales Manager - Heidenhain",
+      "application_deadline": "2023-07-11T23:59:59",
+      "number_of_vacancies": 1,
+      "description": {
+        "text": "Heidenhain är en teknisk tillverkare inom precisionsutrustning som just nu befinner sig på en framgångsrik tillväxtresa. För att fortsätta sin resa söker de nu en lösningssäljande Area Sales Manager (KAM) som vill arbeta i en strategisk & operativ roll mot ett fåtal utvalda nyckelkonton i södra Sverige & Danmark. Om Heidenhain\n\nHeidenhain gjorde, tack vare deras nytänkande idéer, en fantastisk tillväxtresa i Skandinavien förra året där de växte med 40% under 2022, och på global nivå ökade de från 1.3 till 1.5 miljarder euro. Heidenhain är ett välmående företag utöver det vanliga då det drivs i form av en stiftelse med visionen att finnas för alltid. Tack vare att de är just en stiftelse kan de satsa stora resurser inom två områden:\n\n- ständig vidareutveckling och förbättring av produkterna. Deras strävan är att alltid vara tekniskt ledande inom ’Mät- & Styrsystem för krävande positioneringsapplikationer’\n\n- deras enorma välgörenhetsarbete där de sponsrar allt från skolor & sjukhus, till välgörenhetsorganisationer, och bidrar till en grönare och mer hållbar samhällsutveckling - vilket är något kollegorna är väldigt stolta över\n\nSom ekonomiskt stabil stiftelse har de inga krav eller påtryckningar från aktieägare, utan kan bedriva sin verksamhet på ett långsiktigt & etiskt sätt där de valt att inte arbeta med vissa sektorer eller länder. De erbjuder dig\n\n- En strategisk & operativ roll där du ansvarar för att skapa försäljning hos ett fåtal viktiga fokuskonton\n\n- En internationell miljö där du får jobba med globala kunder\n\n- Möjlighet att utvecklas inom key account management\n\n- Möjlighet att utvecklas inom business development & marketing\n\n- Möjlighet att på sikt axla säljchefsrollen\n\n- Produkter av hög kvalitet & hållbarhet\n\n- Snabb service i världsklass\n\n- En tacksam onboarding med sunda förväntningar\n\n\nDu erbjuds även\n\n- Tjänstebil\n- Årlig bonus\n- Friskvård\n- Möjlighet att kunna arbeta på distans och styra din egen vardag\n\nOm rollen\n\nI rollen som Area Sales Manager/Sales Engineer ansvarar du för bearbetningen av ett fåtal viktiga fokuskonton med väldigt hög potential i södra Sverige & Danmark. Din kundstock är fokuserad på, men ej begränsad till bolag inom automation, robotteknik, hissar, medicin & mätsystem. Du kommer tillsammans med Sverigechefen sätta en strategisk & operativ plan som anpassas för att du på bästa sätt ska lyckas med försäljningen och vinna dessa nya konton. I rollen kommer du spendera större delen av veckan (3 - 4 dagar) ute hos potentiella kunder och du förväntas också vara öppen för att övernatta 1 gång i veckan. Resterande tid spenderas på ditt regionala kontor, där du antingen arbetar hemifrån eller från egen kontorsplats. Det är en tacksam roll där du inte mäts på ”Antal kundbesök”, utan av värdet du skapar genom dina kundorienterade aktiviteter, och ditt yttersta fokus är att kratta vägen till och med stänga de riktigt stora affärerna. Du ansvarar för affärsmannaskapet från ax till limpa; från att identifiera rätt personer att prata med hos kunden & boka möten, genomföra möten, hitta lösningar, skapa och presentera offerter, till att få ringa i säljklockan vid vunnen affär och fira med kollegorna. Din ambition är att komma in tidigt i planeringsstadiet hos kunden och sälja in dina produkter i kundens lösning, och du kommer ha flera dialoger i gång med exempelvis R&D, inköp, produktutvecklare, konstruktörer, VDar och ledning. Vem är du? För att trivas i rollen älskar du att göra nya affärer och bryta ny mark. Vi tror att du drivs av ett stort teknikintresse, och kan prata med alla från inköp, produktionschefer, VDar till R&D. Du vill hitta win/win-lösningar där kunden känner sig som en vinnare. Du har en strategisk och operativ förståelse, och kan med uthållighet, god planering, och har ett öga för att matcha lösningar mot nya affärsmöjligheter och skapa nya långsiktiga kundrelationer. Du är en person som med nytänkande idéer vill skapa en gnutta säljhistoria i en relativt konservativ bransch. Meriterande\n\n- Teknisk utbildning på högskole- eller universitetsnivå\n\n- Om du utöver din tekniska förståelse och intresse har kompletterande inriktning inom affärsplanering, affärsutveckling, marknad eller ekonomi\n\n\n\nDin inställning och personlighet kommer vara avgörande för din framgång. Har vi ringat in din person? Kul! Välkommen in med din ansökan så pratar vi mer.",
+        "text_formatted": null,
+        "company_information": null,
+        "needs": null,
+        "requirements": null,
+        "conditions": "Heltid\r\nAnställningstid enligt överenskommelse"
+      },
+      "employment_type": {
+        "concept_id": "PFZr_Syz_cUq",
+        "label": "Vanlig anställning",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_type": {
+        "concept_id": "oG8G_9cW_nRf",
+        "label": "Fast månads- vecko- eller timlön",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_description": "Lön enligt överenskommelse",
+      "duration": {
+        "concept_id": "a7uU_j21_mkL",
+        "label": "Tills vidare",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "working_hours_type": {
+        "concept_id": "6YE1_gAC_R2G",
+        "label": "Heltid",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "scope_of_work": {
+        "min": 100,
+        "max": 100
+      },
+      "access": null,
+      "employer": {
+        "phone_number": null,
+        "email": null,
+        "url": "http://www.salesonomics.com",
+        "organization_number": "5567570188",
+        "name": "Salesonomics AB",
+        "workplace": "Salesonomics"
+      },
+      "application_details": {
+        "information": null,
+        "reference": null,
+        "email": null,
+        "via_af": false,
+        "url": null,
+        "other": null
+      },
+      "experience_required": true,
+      "access_to_own_car": false,
+      "driving_license_required": false,
+      "driving_license": null,
+      "occupation": {
+        "concept_id": "TTDZ_Neo_9GJ",
+        "label": "Key account manager",
+        "legacy_ams_taxonomy_id": "6729"
+      },
+      "occupation_group": {
+        "concept_id": "oXSW_fbY_XrY",
+        "label": "Företagssäljare",
+        "legacy_ams_taxonomy_id": "3322"
+      },
+      "occupation_field": {
+        "concept_id": "RPTn_bxG_ExZ",
+        "label": "Försäljning, inköp, marknadsföring",
+        "legacy_ams_taxonomy_id": "5"
+      },
+      "workplace_address": {
+        "municipality": "Malmö",
+        "municipality_code": "1280",
+        "municipality_concept_id": "oYPt_yRA_Smm",
+        "region": "Skåne län",
+        "region_code": "12",
+        "region_concept_id": "CaRE_1nn_cSU",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": null,
+        "postcode": null,
+        "city": null,
+        "coordinates": [
+          13.003822,
+          55.60498
+        ]
+      },
+      "must_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [
+          {
+            "weight": 10,
+            "concept_id": "TTDZ_Neo_9GJ",
+            "label": "Key account manager",
+            "legacy_ams_taxonomy_id": "6729"
+          }
+        ],
+        "education": [],
+        "education_level": []
+      },
+      "nice_to_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [],
+        "education": [],
+        "education_level": []
+      },
+      "application_contacts": [],
+      "publication_date": "2023-01-22T22:55:27",
+      "last_publication_date": "2023-07-11T23:59:59",
+      "removed": false,
+      "removed_date": null,
+      "source_type": "VIA_PLATSBANKEN_DXA",
+      "timestamp": 1674424527717
+    },
+    {
+      "relevance": 1,
+      "id": "c9e09346b6de515898be716c5ea94c5a525e4351",
+      "external_id": "46-556752-0803-38379",
+      "original_id": "27051904",
+      "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/c9e09346b6de515898be716c5ea94c5a525e4351",
+      "logo_url": "https://www.arbetsformedlingen.se/rest/arbetsgivare/rest/af/v3/organisation/5567520803/logotyper/logo.png",
+      "headline": "Service Delivery Coordinator till Coromatic",
+      "application_deadline": "2023-02-22T23:59:59",
+      "number_of_vacancies": 1,
+      "description": {
+        "text": "Om Bravura:\n\nBravura är ett bemannings- och rekryteringsföretag för organisationer som vill hitta Next Gen Professionals. Hos oss finns massor av jobbmöjligheter, framförallt för dig i början av karriären med 0-8 års erfarenhet. Via oss kan du jobba som konsult eller bli rekryterad. Hitta ditt drömjobb - vi hjälper dig att lyckas! Om tjänsten:\n\nDet här är ett konsultuppdrag med goda möjligheter till överrekrytering. I den här rollen får du initialt en anställning hos Bravura, och det är uttalat att Coromatic har för avsikt att erbjuda dig anställning hos dem på sikt. Detta ger både dig och Coromatic en bra möjlighet att lära känna varandra samt utvärdera hur ni trivs med ert samarbete. Om företaget:\n\nCoromatic är Nordens ledande leverantör av lösningar för verksamhetskritisk infrastruktur, så kallade Critical Facilities Solutions som säkrar tillgänglighet för kraftförsörjning och datakommunikation. Coromatic har ett heltäckande tjänsteerbjudande, där de tar fullt ansvar från strategi och design till integration, underhåll och drift av Critical Facilities Solutions. Deras expertkunskap är inom kraft, kyla, nätverk, datakommunikation samt säkerhet. Coromatic gör det möjligt för företag och organisationer att driva sin verksamhet utan avbrott, oavsett tid på dygnet. De har drygt 530 anställda i Norden och har i dagsläget levererat lösningar och tjänster till företag i mer än 50 länder runtom i världen. Arbetsuppgifter:\n\nI rollen som Service Delivery Coordinator arbetar du huvudsakligen ute på kundsite i Göteborg. Där ansvarar du för planering och uppföljning av samtliga åtaganden, gällande drift och underhåll av verksamhetskritisk infrastruktur inom el, reservkraft och kyla på kundens datacenter. Du säkerställer att detta åtagande sker på det mest resurseffektivaste sätt genom god planering. Du arbetar med uppdragsplanering via ärendehanteringssystem och ansvarar för att koordinera till företagets tekniker eller andra utförare. När uppdragen är klara följer du upp arbeten som genomförts och säkerställer att de blivit slutförda korrekt enligt uppsatta riktlinjer, avtal och angiven tidsplan. Du kommer därtill kontinuerligt även vara delaktig för förbättringsarbeten kopplat till processer och arbetsmetoder. Du kommer att arbeta tätt ihop med Coromatics Operations team, serviceteam, underentreprenörer, leverantörer och kundkontakter. Det är en roll med breda kontaktytor där du har intern och extern kontakt både via telefon och mejl. • Säkerställa leveransen av uppdrag mot kund\n• Ansvar över planering och förbättringsarbete \n• Uppföljning av ärenden kring fakturering och avtal \n• Koordinering och administration\r\n\r\nUtbildning, Erfarenhet och personliga egenskaper:\n\n• Avslutad gymnasial utbildning, gärna inom ekonomi, administration eller teknik\n• God kunskaper i Office-paketet och excel\n• Minst 3 års arbetslivserfarenhet av administration \n• Goda kunskaper i svenska och engelska, både i tal och skrift\n• Arbetslivserfarenhet inom service, drift och/eller teknik är meriterade\n\nFör att lyckas i rollen som produktionsplanerare är du engagerad, serviceinriktad och har en god problemlösningsförmåga. Du trivs i en miljö där det krävs flexibilitet då oförutsedda händelser sker. Du ser konsekvenserna av din arbetsinsats och du anstränger dig för att leverera hög kvalitet. Därtill är du noggrann och har förmågan att hålla och skapa struktur i ditt arbete, även under högt arbetstempo. I rollen arbetar du tätt ihop med ditt team, vilket gör det viktigt att du uppskattar att arbeta tillsammans med andra. Övrig information:\n\nStart: Omgående\nPlats: Göteborg\nLön: Enligt överenskommelse \n\nFunderingar kring Bravuras rekryteringsprocess? Du finner svar på de vanligast förekommande frågorna här\n\nÄr du nyfiken på hur vår rekryteringsprocess är upplagd? Ange vilken tjänst det gäller. Vi rekommenderar att du skickar in din ansökan omgående då vi gör ett löpande urval. Välkommen med din ansökan!",
+        "text_formatted": null,
+        "company_information": null,
+        "needs": null,
+        "requirements": null,
+        "conditions": "Heltid\r\nTillsvidare"
+      },
+      "employment_type": {
+        "concept_id": "PFZr_Syz_cUq",
+        "label": "Vanlig anställning",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_type": {
+        "concept_id": "oG8G_9cW_nRf",
+        "label": "Fast månads- vecko- eller timlön",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_description": "Enligt överenskommelse.",
+      "duration": {
+        "concept_id": "a7uU_j21_mkL",
+        "label": "Tills vidare",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "working_hours_type": {
+        "concept_id": "6YE1_gAC_R2G",
+        "label": "Heltid",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "scope_of_work": {
+        "min": 100,
+        "max": 100
+      },
+      "access": null,
+      "employer": {
+        "phone_number": null,
+        "email": null,
+        "url": "www.bravura.se",
+        "organization_number": "5567520803",
+        "name": "Bravura Sverige AB",
+        "workplace": "Bravura"
+      },
+      "application_details": {
+        "information": null,
+        "reference": null,
+        "email": null,
+        "via_af": false,
+        "url": null,
+        "other": null
+      },
+      "experience_required": true,
+      "access_to_own_car": false,
+      "driving_license_required": false,
+      "driving_license": null,
+      "occupation": {
+        "concept_id": "8NWY_SC6_LVA",
+        "label": "Orderplanerare",
+        "legacy_ams_taxonomy_id": "2747"
+      },
+      "occupation_group": {
+        "concept_id": "8A1f_sxQ_adT",
+        "label": "Ordersamordnare m.fl.",
+        "legacy_ams_taxonomy_id": "3324"
+      },
+      "occupation_field": {
+        "concept_id": "RPTn_bxG_ExZ",
+        "label": "Försäljning, inköp, marknadsföring",
+        "legacy_ams_taxonomy_id": "5"
+      },
+      "workplace_address": {
+        "municipality": "Göteborg",
+        "municipality_code": "1480",
+        "municipality_concept_id": "PVZL_BQT_XtL",
+        "region": "Västra Götalands län",
+        "region_code": "14",
+        "region_concept_id": "zdoY_6u5_Krt",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": null,
+        "postcode": null,
+        "city": null,
+        "coordinates": [
+          11.97456,
+          57.70887
+        ]
+      },
+      "must_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [
+          {
+            "weight": 10,
+            "concept_id": "8NWY_SC6_LVA",
+            "label": "Orderplanerare",
+            "legacy_ams_taxonomy_id": "2747"
+          }
+        ],
+        "education": [],
+        "education_level": []
+      },
+      "nice_to_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [],
+        "education": [],
+        "education_level": []
+      },
+      "application_contacts": [],
+      "publication_date": "2023-01-22T22:47:56",
+      "last_publication_date": "2023-02-22T23:59:59",
+      "removed": false,
+      "removed_date": null,
+      "source_type": "VIA_PLATSBANKEN_DXA",
+      "timestamp": 1674424076940
+    },
+    {
+      "relevance": 1,
+      "id": "fa2adba3b516c9fc2e6dcae6943ed734b90638c0",
+      "external_id": null,
+      "original_id": "27051903",
+      "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/fa2adba3b516c9fc2e6dcae6943ed734b90638c0",
+      "logo_url": "https://www.arbetsformedlingen.se/rest/arbetsgivare/rest/af/v3/arbetsplatser/87822247/logotyper/logo.png",
+      "headline": "Fastighetstekniker Jönköping",
+      "application_deadline": "2023-02-21T23:59:59",
+      "number_of_vacancies": 1,
+      "description": {
+        "text": "Vi söker driven och social tekniker till att vara med och bygga upp vårt kontor i Jönköping då vi fortsätter växa med nya uppdrag. Som fastighetstekniker hos oss på A.R.C får du en varierad, utmanande och inflytelserik roll i vårt gäng där ingen arbetsdag är den andra lik. Vi lägger stor vikt på rätt personlighet hos våra medarbetare, detta för att få ett sammansvetsat arbetslag och en rolig arbetsplats att komma till på morgonen. Ett engagerat servicetänk och ett trevligt bemötande är också viktigt då vi är ansiktet utåt åt våra kunder och hyresgäster. En fastighetstekniker hos oss är ansvarig för ”sina” fastigheter och ser till att alla delar i förvaltningsavtalen sköts. Arbetsuppgifter innefattar:\n·       Hantering av felanmälan och rapportering mot kund. ·       Tillsyn och skötsel av värmecentraler, ventilation/kyla, brandlarm och sprinkler. ·       Bevaka och medverka vid myndighetsbesiktningar. ·       Delta och rapportera till driftmöten. ·       Ta fram fastpriser vid mindre ombyggnationer och projekt. Vi har fått en flygande start och tror stenhårt på vår idé om att skapa arbetsplatser där man trivs. Vi har även höga ambitioner och tydligt satta mål och vill bli bästa fastighetsförvaltaren i Sverige. Vi ser gärna att du som söker dig till oss har några års erfarenhet av fastighetstekniskt arbete med utbildningar inom värme/ventilation, brand/sprinkler samt Heta arbeten och att du tycker om att ta eget ansvar. Även goda kunskaper inom Office-paketet och hanterar svenska och engelska i tal och skrift. B-körkort är ett krav. Goda kunskaper inom El är meriterande men inte ett krav. Rekrytering sker löpande så skynda in med ansökan innan tjänsten blir tillsatt.",
+        "text_formatted": null,
+        "company_information": null,
+        "needs": null,
+        "requirements": null,
+        "conditions": null
+      },
+      "employment_type": {
+        "concept_id": "PFZr_Syz_cUq",
+        "label": "Vanlig anställning",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_type": {
+        "concept_id": "oG8G_9cW_nRf",
+        "label": "Fast månads- vecko- eller timlön",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_description": null,
+      "duration": {
+        "concept_id": "a7uU_j21_mkL",
+        "label": "Tills vidare",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "working_hours_type": {
+        "concept_id": "6YE1_gAC_R2G",
+        "label": "Heltid",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "scope_of_work": {
+        "min": 100,
+        "max": 100
+      },
+      "access": null,
+      "employer": {
+        "phone_number": null,
+        "email": null,
+        "url": "www.arcfast.se",
+        "organization_number": "5592680739",
+        "name": "A.R.C Fastighetspartner AB",
+        "workplace": "A R C Fastighetspartner AB"
+      },
+      "application_details": {
+        "information": null,
+        "reference": null,
+        "email": null,
+        "via_af": false,
+        "url": null,
+        "other": null
+      },
+      "experience_required": true,
+      "access_to_own_car": false,
+      "driving_license_required": true,
+      "driving_license": [
+        {
+          "concept_id": "VTK8_WRx_GcM",
+          "label": "B",
+          "legacy_ams_taxonomy_id": "3"
+        }
+      ],
+      "occupation": {
+        "concept_id": "9NVZ_LfD_vqT",
+        "label": "Fastighetstekniker/Drifttekniker, fastighet",
+        "legacy_ams_taxonomy_id": "2386"
+      },
+      "occupation_group": {
+        "concept_id": "df9D_e6y_61z",
+        "label": "Fastighetsskötare",
+        "legacy_ams_taxonomy_id": "5152"
+      },
+      "occupation_field": {
+        "concept_id": "yhCP_AqT_tns",
+        "label": "Installation, drift, underhåll",
+        "legacy_ams_taxonomy_id": "10"
+      },
+      "workplace_address": {
+        "municipality": "Växjö",
+        "municipality_code": "0780",
+        "municipality_concept_id": "mmot_H3A_auW",
+        "region": "Kronobergs län",
+        "region_code": "07",
+        "region_concept_id": "tF3y_MF9_h5G",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": null,
+        "postcode": null,
+        "city": null,
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "must_have": {
+        "skills": [],
+        "languages": [
+          {
+            "weight": 10,
+            "concept_id": "zSLA_vw2_FXN",
+            "label": "Svenska",
+            "legacy_ams_taxonomy_id": "502"
+          }
+        ],
+        "work_experiences": [],
+        "education": [],
+        "education_level": []
+      },
+      "nice_to_have": {
+        "skills": [
+          {
+            "weight": 5,
+            "concept_id": "rmuF_Dce_PPS",
+            "label": "Elarbeten, servicevana",
+            "legacy_ams_taxonomy_id": "607092"
+          }
+        ],
+        "languages": [],
+        "work_experiences": [
+          {
+            "weight": 5,
+            "concept_id": "9NVZ_LfD_vqT",
+            "label": "Fastighetstekniker/Drifttekniker, fastighet",
+            "legacy_ams_taxonomy_id": "2386"
+          }
+        ],
+        "education": [],
+        "education_level": []
+      },
+      "application_contacts": [],
+      "publication_date": "2023-01-22T22:43:44",
+      "last_publication_date": "2023-02-21T23:59:59",
+      "removed": false,
+      "removed_date": null,
+      "source_type": "VIA_ANNONSERA",
+      "timestamp": 1675233868733
+    },
+    {
+      "relevance": 1,
+      "id": "b6ee75c579c1a0633e92d8ec282f0acb84c93fc9",
+      "external_id": null,
+      "original_id": "27051902",
+      "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/b6ee75c579c1a0633e92d8ec282f0acb84c93fc9",
+      "logo_url": "https://www.arbetsformedlingen.se/rest/arbetsgivare/rest/af/v3/arbetsplatser/87822247/logotyper/logo.png",
+      "headline": "Fastighetstekniker Göteborg",
+      "application_deadline": "2023-02-21T23:59:59",
+      "number_of_vacancies": 1,
+      "description": {
+        "text": "Vi söker driven och social tekniker till att vara med och öppna vårt kontor i Göteborg då vi fortsätter växa med nya uppdrag. Som fastighetstekniker hos oss på A.R.C får du en varierad, utmanande och inflytelserik roll i vårt gäng där ingen arbetsdag är den andra lik. Vi lägger stor vikt på rätt personlighet hos våra medarbetare, detta för att få ett sammansvetsat arbetslag och en rolig arbetsplats att komma till på morgonen. Ett engagerat servicetänk och ett trevligt bemötande är också viktigt då vi är ansiktet utåt åt våra kunder och hyresgäster. En fastighetstekniker hos oss är ansvarig för ”sina” fastigheter och ser till att alla delar i förvaltningsavtalen sköts. Arbetsuppgifter innefattar:\n·       Hantering av felanmälan och rapportering mot kund. ·       Tillsyn och skötsel av värmecentraler, ventilation/kyla, brandlarm och sprinkler. ·       Bevaka och medverka vid myndighetsbesiktningar. ·       Delta och rapportera till driftmöten. ·       Ta fram fastpriser vid mindre ombyggnationer och projekt. Vi har fått en flygande start och tror stenhårt på vår idé om att skapa arbetsplatser där man trivs. Vi har även höga ambitioner och tydligt satta mål och vill bli bästa fastighetsförvaltaren i Sverige. Vi ser gärna att du som söker dig till oss har några års erfarenhet av fastighetstekniskt arbete med utbildningar inom värme/ventilation, brand/sprinkler samt Heta arbeten och att du tycker om att ta eget ansvar. Även goda kunskaper inom Office-paketet och hanterar svenska och engelska i tal och skrift. B-körkort är ett krav. Goda kunskaper inom El är meriterande men inte ett krav. Rekrytering sker löpande så skynda in med ansökan innan tjänsten blir tillsatt.",
+        "text_formatted": null,
+        "company_information": null,
+        "needs": null,
+        "requirements": null,
+        "conditions": null
+      },
+      "employment_type": {
+        "concept_id": "PFZr_Syz_cUq",
+        "label": "Vanlig anställning",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_type": {
+        "concept_id": "oG8G_9cW_nRf",
+        "label": "Fast månads- vecko- eller timlön",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_description": null,
+      "duration": {
+        "concept_id": "a7uU_j21_mkL",
+        "label": "Tills vidare",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "working_hours_type": {
+        "concept_id": "6YE1_gAC_R2G",
+        "label": "Heltid",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "scope_of_work": {
+        "min": 100,
+        "max": 100
+      },
+      "access": null,
+      "employer": {
+        "phone_number": null,
+        "email": null,
+        "url": "www.arcfast.se",
+        "organization_number": "5592680739",
+        "name": "A.R.C Fastighetspartner AB",
+        "workplace": "A R C Fastighetspartner AB"
+      },
+      "application_details": {
+        "information": null,
+        "reference": null,
+        "email": null,
+        "via_af": false,
+        "url": null,
+        "other": null
+      },
+      "experience_required": true,
+      "access_to_own_car": false,
+      "driving_license_required": true,
+      "driving_license": [
+        {
+          "concept_id": "VTK8_WRx_GcM",
+          "label": "B",
+          "legacy_ams_taxonomy_id": "3"
+        }
+      ],
+      "occupation": {
+        "concept_id": "9NVZ_LfD_vqT",
+        "label": "Fastighetstekniker/Drifttekniker, fastighet",
+        "legacy_ams_taxonomy_id": "2386"
+      },
+      "occupation_group": {
+        "concept_id": "df9D_e6y_61z",
+        "label": "Fastighetsskötare",
+        "legacy_ams_taxonomy_id": "5152"
+      },
+      "occupation_field": {
+        "concept_id": "yhCP_AqT_tns",
+        "label": "Installation, drift, underhåll",
+        "legacy_ams_taxonomy_id": "10"
+      },
+      "workplace_address": {
+        "municipality": "Mölndal",
+        "municipality_code": "1481",
+        "municipality_concept_id": "mc45_ki9_Bv3",
+        "region": "Västra Götalands län",
+        "region_code": "14",
+        "region_concept_id": "zdoY_6u5_Krt",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": null,
+        "postcode": null,
+        "city": null,
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "must_have": {
+        "skills": [],
+        "languages": [
+          {
+            "weight": 10,
+            "concept_id": "zSLA_vw2_FXN",
+            "label": "Svenska",
+            "legacy_ams_taxonomy_id": "502"
+          }
+        ],
+        "work_experiences": [],
+        "education": [],
+        "education_level": []
+      },
+      "nice_to_have": {
+        "skills": [
+          {
+            "weight": 5,
+            "concept_id": "rmuF_Dce_PPS",
+            "label": "Elarbeten, servicevana",
+            "legacy_ams_taxonomy_id": "607092"
+          }
+        ],
+        "languages": [],
+        "work_experiences": [
+          {
+            "weight": 5,
+            "concept_id": "9NVZ_LfD_vqT",
+            "label": "Fastighetstekniker/Drifttekniker, fastighet",
+            "legacy_ams_taxonomy_id": "2386"
+          }
+        ],
+        "education": [],
+        "education_level": []
+      },
+      "application_contacts": [],
+      "publication_date": "2023-01-22T22:41:59",
+      "last_publication_date": "2023-02-21T23:59:59",
+      "removed": false,
+      "removed_date": null,
+      "source_type": "VIA_ANNONSERA",
+      "timestamp": 1675233943734
+    },
+    {
+      "relevance": 1,
+      "id": "1f2f6a034b502ba0f86c7d1c74500e7eb3eba515",
+      "external_id": null,
+      "original_id": "27051899",
+      "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/1f2f6a034b502ba0f86c7d1c74500e7eb3eba515",
+      "logo_url": null,
+      "headline": "Senior backend java developer",
+      "application_deadline": "2023-02-21T23:59:59",
+      "number_of_vacancies": 1,
+      "description": {
+        "text": "You will be working with the latest technologies and methodologies in high-performing, agile teams. Your responsibilities\nYou will work in a Agile team and will be involved in the whole cycle of development: design, implementation, testing and deployment in the cloud\nYou'll take part in all the Scrum ceremonies along with the company wide meetings including internal training\nYou will be responsible for the quality of the code , supported by quality metrics tools like Sonar and peer developers code reviews.",
+        "text_formatted": null,
+        "company_information": null,
+        "needs": null,
+        "requirements": null,
+        "conditions": null
+      },
+      "employment_type": {
+        "concept_id": "PFZr_Syz_cUq",
+        "label": "Vanlig anställning",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_type": {
+        "concept_id": "oG8G_9cW_nRf",
+        "label": "Fast månads- vecko- eller timlön",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_description": null,
+      "duration": {
+        "concept_id": "a7uU_j21_mkL",
+        "label": "Tills vidare",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "working_hours_type": {
+        "concept_id": "6YE1_gAC_R2G",
+        "label": "Heltid",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "scope_of_work": {
+        "min": 100,
+        "max": 100
+      },
+      "access": null,
+      "employer": {
+        "phone_number": null,
+        "email": null,
+        "url": null,
+        "organization_number": "5592700396",
+        "name": "sukuba AB",
+        "workplace": "sukuba AB"
+      },
+      "application_details": {
+        "information": null,
+        "reference": null,
+        "email": null,
+        "via_af": false,
+        "url": null,
+        "other": null
+      },
+      "experience_required": true,
+      "access_to_own_car": false,
+      "driving_license_required": false,
+      "driving_license": null,
+      "occupation": {
+        "concept_id": "7wdX_4rv_33z",
+        "label": "Backend-utvecklare",
+        "legacy_ams_taxonomy_id": "7632"
+      },
+      "occupation_group": {
+        "concept_id": "DJh5_yyF_hEM",
+        "label": "Mjukvaru- och systemutvecklare m.fl.",
+        "legacy_ams_taxonomy_id": "2512"
+      },
+      "occupation_field": {
+        "concept_id": "apaJ_2ja_LuF",
+        "label": "Data/IT",
+        "legacy_ams_taxonomy_id": "3"
+      },
+      "workplace_address": {
+        "municipality": "Stockholm",
+        "municipality_code": "0180",
+        "municipality_concept_id": "AvNB_uwa_6n6",
+        "region": "Stockholms län",
+        "region_code": "01",
+        "region_concept_id": "CifL_Rzy_Mku",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": "Ekholmsvägen 224 Lgh 1401",
+        "postcode": "12751",
+        "city": "Skärholmen",
+        "coordinates": [
+          17.906459157111623,
+          59.27964333543008
+        ]
+      },
+      "must_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [
+          {
+            "weight": 10,
+            "concept_id": "7wdX_4rv_33z",
+            "label": "Backend-utvecklare",
+            "legacy_ams_taxonomy_id": "7632"
+          }
+        ],
+        "education": [],
+        "education_level": []
+      },
+      "nice_to_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [],
+        "education": [],
+        "education_level": []
+      },
+      "application_contacts": [],
+      "publication_date": "2023-01-22T22:24:29",
+      "last_publication_date": "2023-02-21T23:59:59",
+      "removed": false,
+      "removed_date": null,
+      "source_type": "VIA_ANNONSERA",
+      "timestamp": 1674466284837
+    }
+  ]
+}
